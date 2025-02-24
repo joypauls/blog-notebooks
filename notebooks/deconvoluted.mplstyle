@@ -1,0 +1,61 @@
+# Font settings (increased for professional readability)
+font.family: sans-serif
+font.sans-serif: Lato, Arial, Helvetica, sans-serif
+font.size: 10
+axes.labelsize: 12
+axes.titlesize: 14
+legend.fontsize: 10
+xtick.labelsize: 10
+ytick.labelsize: 10
+text.antialiased: True
+
+# Figure aesthetics
+figure.figsize: 8, 5
+figure.dpi: 300
+figure.autolayout: True
+
+# Axes styling (minimalist, professional look)
+axes.facecolor: white
+axes.edgecolor: black
+axes.labelcolor: black
+axes.grid: True
+axes.grid.which: major
+# axes.titleweight: bold
+axes.titleweight: regular
+axes.titlepad: 10
+axes.spines.top: False  # Hide top spine
+axes.spines.right: False  # Hide right spine
+axes.spines.left: True  # Keep left spine for structure
+axes.spines.bottom: True  # Keep bottom spine for structure
+
+# Grid styling (lighter and cleaner)
+grid.color: aaaaaa
+grid.linestyle: :
+grid.linewidth: 0.5
+
+# Ticks (more subtle and professional)
+xtick.color: black
+ytick.color: black
+xtick.direction: out
+ytick.direction: out
+xtick.bottom: True
+ytick.left: True
+
+# Line styles for better clarity
+lines.linewidth: 2.5
+lines.markersize: 8
+
+# Color cycle (refined for professional feel)
+# axes.prop_cycle: cycler(color=['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+axes.prop_cycle: cycler(color=['005f73', 'ee9b00', '0a9396', 'ae2012', '9b2226', '6a0572', '5a189a', '4a4e69'])
+
+# Legends (cleaner, more professional)
+legend.frameon: False
+legend.loc: best
+
+# Savefig settings for high-quality exports
+# savefig.transparent: True
+savefig.format: png
+savefig.dpi: 300
+
+
