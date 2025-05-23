@@ -1,6 +1,6 @@
 # Font settings (increased for professional readability)
 font.family: sans-serif
-font.sans-serif: Inter, Arial, Helvetica, sans-serif
+font.sans-serif: Lato, Arial, Helvetica, sans-serif
 font.size: 10
 axes.labelsize: 12
 axes.titlesize: 14
