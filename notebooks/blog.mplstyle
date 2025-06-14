@@ -50,6 +50,7 @@ lines.markersize: 8
 # OMIT THE # IN COLORS
 # Color cycle (refined for professional feel)
 # '#1b9e77', '#d95f02', '#7570b3', '#e7298a', '#66a61e', '#e6ab02', '#a6761d', '#666666'
+# basic
 # axes.prop_cycle: cycler(color=['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
 # axes.prop_cycle: cycler(color=['6a9fb5', 'ee6c7f', '98bf64', 'ffb347', '9c7dcf', 'c67171', 'e08ebf', '6d6d6d', 'c4cf56', '57c4d2'])
 # axes.prop_cycle: cycler(color=['4281a4', 'e94f64', '67b346', 'fca627', '7b5fc9', 'c24a4a', 'dc6fb9', '4a4a4a', 'adc334', '2dbfd6'])
